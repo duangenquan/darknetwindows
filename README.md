@@ -4,10 +4,11 @@ This projdect is forked from https://github.com/pjreddie/darknet, and runs on wi
 
 1. Install vs2012 & cuda7.5
 
-2. Download pretrained models into ./models/
+2. Download pretrained models 
 	[Full model](http://pjreddie.com/media/files/yolo.weights),
 	[Small model](http://pjreddie.com/media/files/yolo-small.weights),
-	[Tiny model](http://pjreddie.com/media/files/yolo-tiny.weights)
+	[Tiny model](http://pjreddie.com/media/files/yolo-tiny.weights) 
+	into ./models/
 
 3. Compile and run:
 
