@@ -18,6 +18,7 @@ Private/
 darknet
 debug/
 release/
+models/
 
 # OS Generated #
 .DS_Store*
@@ -29,3 +30,4 @@ Thumbs.db
 *.sdf
 *.suo
 *.pdb
+*.user
