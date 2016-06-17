@@ -7,11 +7,12 @@ This projdect is forked from https://github.com/pjreddie/darknet, and runs on wi
 2. Download pretrained models into ./models/
 	[Full model](http://pjreddie.com/media/files/yolo.weights),
 	[Small model](http://pjreddie.com/media/files/yolo-small.weights),
-	[Tiny model}(http://pjreddie.com/media/files/yolo-tiny.weights)
+	[Tiny model](http://pjreddie.com/media/files/yolo-tiny.weights)
 
 3. Compile and run:
 
 ./darknet yolo test cfg/yolo.cfg <path>/yolo.weights <image>
+
 ./darknet yolo demo cfg/yolo.cfg yolo.weights <video>
 
 #![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
