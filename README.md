@@ -1,4 +1,4 @@
-This projdect is forked from https://github.com/pjreddie/darknet, and runs on windows x64 with vs2012+cuda7.5+opencv.
+This projdect is forked from https://github.com/pjreddie/darknet (06/16/2016), and runs on windows x64 with vs2012+cuda7.5+opencv.
 
 ##Preparations##
 
