@@ -22,3 +22,5 @@ Icon?
 Thumbs.db
 *.swp
 *.deps
+*.sdf
+*.suo
