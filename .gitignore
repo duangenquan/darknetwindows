@@ -13,7 +13,11 @@ convnet/
 decaf/
 submission/
 cfg/
+Public/
+Private/
 darknet
+debug/
+release/
 
 # OS Generated #
 .DS_Store*
